@@ -71,24 +71,24 @@ struct SignUp: View {
                 .foregroundColor(.gray)
                 .padding(.top)
             
-            Text("Or Connect with")
-                .foregroundColor(.gray)
-                .frame(width: UIScreen.main.bounds.width)
-                .padding(.top)
+            
 
             VStack {
+                Text("Or Connect with")
+                    .foregroundColor(.gray)
+                    .padding(.top)
+                
                 Text("Already have an account?")
-                    .frame(width: UIScreen.main.bounds.width)
                     .padding(.top)
 
                 Text("Log in here")
                     .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
-                    .frame(width: UIScreen.main.bounds.width)
                     .padding(.top)
                     .onTapGesture {
 
                     }
             }
+            .frame(maxWidth: .infinity)
             
         }
         .padding(.horizontal)
