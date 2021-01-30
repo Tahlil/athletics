@@ -36,6 +36,7 @@
 		8891917225C43367009B7F49 /* SignIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8891917125C43367009B7F49 /* SignIn.swift */; };
 		8891917825C433B5009B7F49 /* PrimaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8891917725C433B5009B7F49 /* PrimaryButton.swift */; };
 		8891918025C437FE009B7F49 /* Welcome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8891917F25C437FE009B7F49 /* Welcome.swift */; };
+		88977F2C25C5700800E89A81 /* SignUpStep1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88977F2B25C5700800E89A81 /* SignUpStep1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +92,7 @@
 		8891917125C43367009B7F49 /* SignIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignIn.swift; sourceTree = "<group>"; };
 		8891917725C433B5009B7F49 /* PrimaryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryButton.swift; sourceTree = "<group>"; };
 		8891917F25C437FE009B7F49 /* Welcome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Welcome.swift; sourceTree = "<group>"; };
+		88977F2B25C5700800E89A81 /* SignUpStep1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpStep1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +187,7 @@
 				884410E325BA072C00F94AE0 /* SignUp.swift */,
 				8891917125C43367009B7F49 /* SignIn.swift */,
 				8891917F25C437FE009B7F49 /* Welcome.swift */,
+				88977F2B25C5700800E89A81 /* SignUpStep1.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -372,6 +375,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88977F2C25C5700800E89A81 /* SignUpStep1.swift in Sources */,
 				883FD7CA25A5B60C0088DE8A /* ContentView.swift in Sources */,
 				884410E425BA072C00F94AE0 /* SignUp.swift in Sources */,
 				8891917825C433B5009B7F49 /* PrimaryButton.swift in Sources */,
