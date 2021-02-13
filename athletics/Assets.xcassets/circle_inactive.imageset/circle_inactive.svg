@@ -1,0 +1,9 @@
+<svg id="Group_6" data-name="Group 6" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <circle id="Mask" cx="12.5" cy="12.5" r="12.5" fill="#d4dee2"/>
+  <g id="basketball" transform="translate(5 5)">
+    <path id="Shape" d="M0,7.5A7.5,7.5,0,1,1,7.5,15,7.5,7.5,0,0,1,0,7.5Z" fill="#fff"/>
+    <path id="Path" d="M.25,3.185a.25.25,0,0,0,.25-.25A3.891,3.891,0,0,1,1.5.427.25.25,0,1,0,1.146.073,4.333,4.333,0,0,0,0,2.935.25.25,0,0,0,.25,3.185Z" transform="translate(1.343 4.149)" fill="#fff"/>
+    <path id="Path-2" data-name="Path" d="M1.592,2.378A.25.25,0,0,0,1.7,1.9,2.541,2.541,0,0,1,.494.2.25.25,0,0,0,0,.3,3.027,3.027,0,0,0,1.479,2.35.252.252,0,0,0,1.592,2.378Z" transform="translate(1.88 10.328)" fill="#fff"/>
+    <path id="Path-3" data-name="Path" d="M1.135.281.33.013A.25.25,0,1,0,.171.488L.977.755A.25.25,0,0,0,1.135.28Z" transform="translate(4.833 13.279)" fill="#fff"/>
+  </g>
+</svg>

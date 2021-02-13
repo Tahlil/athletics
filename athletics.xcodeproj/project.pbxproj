@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		880165A625D6D47300A837B6 /* CircleAvatarWithIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 880165A525D6D47300A837B6 /* CircleAvatarWithIndicator.swift */; };
 		883FD7C825A5B60C0088DE8A /* athleticsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883FD7C725A5B60C0088DE8A /* athleticsApp.swift */; };
 		883FD7CA25A5B60C0088DE8A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883FD7C925A5B60C0088DE8A /* ContentView.swift */; };
 		883FD7CC25A5B60D0088DE8A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 883FD7CB25A5B60D0088DE8A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 		883FD7DA25A5B60E0088DE8A /* athleticsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883FD7D925A5B60E0088DE8A /* athleticsTests.swift */; };
 		883FD7E525A5B60E0088DE8A /* athleticsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883FD7E425A5B60E0088DE8A /* athleticsUITests.swift */; };
 		884410E425BA072C00F94AE0 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884410E325BA072C00F94AE0 /* SignUp.swift */; };
+		887D918E25D7DFE600CED4E2 /* HubAthleteScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887D918D25D7DFE600CED4E2 /* HubAthleteScreen.swift */; };
 		8891915825C41CC9009B7F49 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8891914525C41CC9009B7F49 /* Poppins-ExtraLight.ttf */; };
 		8891915925C41CC9009B7F49 /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8891914625C41CC9009B7F49 /* Poppins-ThinItalic.ttf */; };
 		8891915A25C41CC9009B7F49 /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8891914725C41CC9009B7F49 /* Poppins-ExtraLightItalic.ttf */; };
@@ -57,6 +59,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		880165A525D6D47300A837B6 /* CircleAvatarWithIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleAvatarWithIndicator.swift; sourceTree = "<group>"; };
 		883FD7C425A5B60C0088DE8A /* athletics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = athletics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		883FD7C725A5B60C0088DE8A /* athleticsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athleticsApp.swift; sourceTree = "<group>"; };
 		883FD7C925A5B60C0088DE8A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +73,7 @@
 		883FD7E425A5B60E0088DE8A /* athleticsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athleticsUITests.swift; sourceTree = "<group>"; };
 		883FD7E625A5B60E0088DE8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		884410E325BA072C00F94AE0 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
+		887D918D25D7DFE600CED4E2 /* HubAthleteScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HubAthleteScreen.swift; sourceTree = "<group>"; };
 		8891914525C41CC9009B7F49 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
 		8891914625C41CC9009B7F49 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
 		8891914725C41CC9009B7F49 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
@@ -188,6 +192,7 @@
 				8891917125C43367009B7F49 /* SignIn.swift */,
 				8891917F25C437FE009B7F49 /* Welcome.swift */,
 				88977F2B25C5700800E89A81 /* SignUpStep1.swift */,
+				887D918D25D7DFE600CED4E2 /* HubAthleteScreen.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -223,6 +228,7 @@
 			isa = PBXGroup;
 			children = (
 				8891917725C433B5009B7F49 /* PrimaryButton.swift */,
+				880165A525D6D47300A837B6 /* CircleAvatarWithIndicator.swift */,
 			);
 			path = components;
 			sourceTree = "<group>";
@@ -379,6 +385,8 @@
 				883FD7CA25A5B60C0088DE8A /* ContentView.swift in Sources */,
 				884410E425BA072C00F94AE0 /* SignUp.swift in Sources */,
 				8891917825C433B5009B7F49 /* PrimaryButton.swift in Sources */,
+				880165A625D6D47300A837B6 /* CircleAvatarWithIndicator.swift in Sources */,
+				887D918E25D7DFE600CED4E2 /* HubAthleteScreen.swift in Sources */,
 				883FD7C825A5B60C0088DE8A /* athleticsApp.swift in Sources */,
 				8891918025C437FE009B7F49 /* Welcome.swift in Sources */,
 				8891917225C43367009B7F49 /* SignIn.swift in Sources */,

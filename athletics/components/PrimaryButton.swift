@@ -25,7 +25,7 @@ struct PrimaryButton: View {
             .background(LinearGradient(gradient: Gradient(colors: [Color(#colorLiteral(red: 0, green: 0.7098039216, blue: 1, alpha: 1)), Color(#colorLiteral(red: 0, green: 0.568627451, blue: 1, alpha: 1))]), startPoint: .leading, endPoint: .trailing))
             .clipShape(Capsule())
         }
-        .padding(.top)
+//        .padding(.top)
     }
 }
 
